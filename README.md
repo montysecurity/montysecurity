@@ -1,6 +1,6 @@
 ### Howdy! 👋 I'm monty
 
-I mainly hack things, build things to help me hack other things, and try to document things where I can to share them here.
+I hack things. Sometimes together, other times apart. 
 
 I can also be found doing things in these places:
 
